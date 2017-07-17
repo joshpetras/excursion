@@ -21,12 +21,11 @@ h2 {
   color: white;
 }
 
-.description p {
+p {
   font-size: 21px;
   color: gray;
 }
 
 .footer p {
   text-align: right;
-  color: gray;
 }
